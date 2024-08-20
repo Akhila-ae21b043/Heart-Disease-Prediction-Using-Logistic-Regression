@@ -1,1 +1,6 @@
 # Heart-Disease-Prediction-Using-Logistic-Regression
+Logistic regression is a type of regression analysis in statistics used for prediction of outcome of a categorical dependent variable from a set of predictor or independent variables. In logistic regression the dependent variable is always binary. Logistic regression is mainly used to for prediction and also calculating the probability of success.
+# About data
+The World Health Organization estimates that 12 million people die globally each year due to heart diseases. In the United States and other developed countries, cardiovascular diseases are responsible for half of all deaths. Early detection of these diseases can help guide lifestyle changes for high-risk patients, potentially reducing complications. This research aims to identify the most significant risk factors for heart disease and predict overall risk using logistic regression.
+
+The dataset used in this research is publicly available on Kaggle and originates from an ongoing cardiovascular study in Framingham, Massachusetts. The objective is to predict whether a patient has a 10-year risk of developing coronary heart disease (CHD). The dataset contains information on over 4,000 patients and includes 15 attributes.Link: https://www.kaggle.com/dileep070/heart-disease-prediction-using-logistic-regression
